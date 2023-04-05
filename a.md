@@ -12,8 +12,5 @@ seventh line for git rm
 969c57
 ans : 
 new line 
-
-
-b097aff
-
-94273
+changes on UI
+2nd changes on UI 
